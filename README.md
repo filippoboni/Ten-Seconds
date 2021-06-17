@@ -1,2 +1,2 @@
 # Ten-Seconds
-Here below the project of Ten Seconds developed on Android Studio and the SRS doc
+Here below the SRS Document of Ten Seconds, app developed on Android Studio
